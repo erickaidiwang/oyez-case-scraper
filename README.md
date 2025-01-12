@@ -61,5 +61,3 @@ This tool scrapes oral argument transcripts and case metadata from Oyez.org for 
 ## Output Files
 - `{Case_Name}_transcript_test.json`: Contains first 3 blocks (test mode)
 - `{Case_Name}_transcript_full.json`: Contains complete transcript
-
-## Output Structure
