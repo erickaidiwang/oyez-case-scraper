@@ -12,7 +12,6 @@ This tool scrapes oral argument transcripts and case metadata from Oyez.org for 
 ## Prerequisites
 - Python 3.8 or higher
 - Chrome browser installed
-- Internet connection
 
 ## Setup
 
